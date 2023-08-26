@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>id and class html  </title>
+</head>
+<style type="text/css">
+#header{background-color:lightGray;
+        padding:2px solid; 
+                     }
+.twon {padding:1px;
+       background-color:lightBlue;
+      }
+
+</style>
+<body>
+<h1 id = "header">Twon</h1>
+<h1 class= "twon">Beautiful twon</h1>
+<p>there are alotof twons in tigray</p>
+<p>Wukro is one of the best twon of tigray</p>
+</body>
+ 
+</html>
